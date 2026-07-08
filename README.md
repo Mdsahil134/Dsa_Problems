@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Mdsahil134/Dsa_Problems/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Mdsahil134/Dsa_Problems/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## String
 |  |
@@ -53,4 +54,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Mdsahil134/Dsa_Problems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Mdsahil134/Dsa_Problems/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 <!---LeetCode Topics End-->
