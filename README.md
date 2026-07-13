@@ -110,4 +110,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0051-n-queens](https://github.com/Mdsahil134/Dsa_Problems/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Mdsahil134/Dsa_Problems/tree/master/0052-n-queens-ii) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/Mdsahil134/Dsa_Problems/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
