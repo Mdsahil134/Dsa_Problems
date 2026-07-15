@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2574-left-and-right-sum-differences](https://github.com/Mdsahil134/Dsa_Problems/tree/master/2574-left-and-right-sum-differences) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Mdsahil134/Dsa_Problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Mdsahil134/Dsa_Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/Mdsahil134/Dsa_Problems/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Greedy
 |  |
 | ------- |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2685-count-the-number-of-complete-components](https://github.com/Mdsahil134/Dsa_Problems/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Mdsahil134/Dsa_Problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Mdsahil134/Dsa_Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/Mdsahil134/Dsa_Problems/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Design
 |  |
 | ------- |
@@ -114,4 +116,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/Mdsahil134/Dsa_Problems/tree/master/1291-sequential-digits) |
+## Matrix
+|  |
+| ------- |
+| [3898-find-the-degree-of-each-vertex](https://github.com/Mdsahil134/Dsa_Problems/tree/master/3898-find-the-degree-of-each-vertex) |
 <!---LeetCode Topics End-->
