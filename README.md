@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Mdsahil134/Dsa_Problems/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Mdsahil134/Dsa_Problems/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Mdsahil134/Dsa_Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
 |  |
 | ------- |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2574-left-and-right-sum-differences](https://github.com/Mdsahil134/Dsa_Problems/tree/master/2574-left-and-right-sum-differences) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Mdsahil134/Dsa_Problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Mdsahil134/Dsa_Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Mdsahil134/Dsa_Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Mdsahil134/Dsa_Problems/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Greedy
 |  |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/Mdsahil134/Dsa_Problems/tree/master/1331-rank-transform-of-an-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Mdsahil134/Dsa_Problems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Mdsahil134/Dsa_Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Mdsahil134/Dsa_Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -99,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Mdsahil134/Dsa_Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Mdsahil134/Dsa_Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -120,4 +124,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Mdsahil134/Dsa_Problems/tree/master/3898-find-the-degree-of-each-vertex) |
+## Simulation
+|  |
+| ------- |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Mdsahil134/Dsa_Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Number Theory
+|  |
+| ------- |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Mdsahil134/Dsa_Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
