@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Mdsahil134/Dsa_Problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Mdsahil134/Dsa_Problems/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Mdsahil134/Dsa_Problems/tree/master/0701-insert-into-a-binary-search-tree) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Mdsahil134/Dsa_Problems/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Mdsahil134/Dsa_Problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Mdsahil134/Dsa_Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Binary Tree
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/Mdsahil134/Dsa_Problems/tree/master/3312-sorted-gcd-pair-queries) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Mdsahil134/Dsa_Problems/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Mdsahil134/Dsa_Problems/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Mdsahil134/Dsa_Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Mdsahil134/Dsa_Problems/tree/master/0303-range-sum-query-immutable) |
 | [2574-left-and-right-sum-differences](https://github.com/Mdsahil134/Dsa_Problems/tree/master/2574-left-and-right-sum-differences) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Mdsahil134/Dsa_Problems/tree/master/3312-sorted-gcd-pair-queries) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Mdsahil134/Dsa_Problems/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Array
 |  |
@@ -56,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/Mdsahil134/Dsa_Problems/tree/master/1331-rank-transform-of-an-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Mdsahil134/Dsa_Problems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2574-left-and-right-sum-differences](https://github.com/Mdsahil134/Dsa_Problems/tree/master/2574-left-and-right-sum-differences) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Mdsahil134/Dsa_Problems/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Mdsahil134/Dsa_Problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Mdsahil134/Dsa_Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Mdsahil134/Dsa_Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -81,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1331-rank-transform-of-an-array](https://github.com/Mdsahil134/Dsa_Problems/tree/master/1331-rank-transform-of-an-array) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Mdsahil134/Dsa_Problems/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Mdsahil134/Dsa_Problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Union-Find
 |  |
@@ -131,5 +136,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/Mdsahil134/Dsa_Problems/tree/master/3312-sorted-gcd-pair-queries) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Mdsahil134/Dsa_Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Combinatorics
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/Mdsahil134/Dsa_Problems/tree/master/3312-sorted-gcd-pair-queries) |
+## Counting
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/Mdsahil134/Dsa_Problems/tree/master/3312-sorted-gcd-pair-queries) |
 <!---LeetCode Topics End-->
