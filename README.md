@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Mdsahil134/Dsa_Problems/tree/master/0207-course-schedule) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Mdsahil134/Dsa_Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Mdsahil134/Dsa_Problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [2685-count-the-number-of-complete-components](https://github.com/Mdsahil134/Dsa_Problems/tree/master/2685-count-the-number-of-complete-components) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Mdsahil134/Dsa_Problems/tree/master/0207-course-schedule) |
 | [2685-count-the-number-of-complete-components](https://github.com/Mdsahil134/Dsa_Problems/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Mdsahil134/Dsa_Problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Mdsahil134/Dsa_Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Mdsahil134/Dsa_Problems/tree/master/0207-course-schedule) |
 | [2685-count-the-number-of-complete-components](https://github.com/Mdsahil134/Dsa_Problems/tree/master/2685-count-the-number-of-complete-components) |
 ## Backtracking
 |  |
@@ -174,4 +177,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Mdsahil134/Dsa_Problems/tree/master/3501-maximize-active-section-with-trade-ii) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Mdsahil134/Dsa_Problems/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
