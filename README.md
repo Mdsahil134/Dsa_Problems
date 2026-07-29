@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Mdsahil134/Dsa_Problems/tree/master/0303-range-sum-query-immutable) |
+| [0724-find-pivot-index](https://github.com/Mdsahil134/Dsa_Problems/tree/master/0724-find-pivot-index) |
 | [2574-left-and-right-sum-differences](https://github.com/Mdsahil134/Dsa_Problems/tree/master/2574-left-and-right-sum-differences) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Mdsahil134/Dsa_Problems/tree/master/3312-sorted-gcd-pair-queries) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Mdsahil134/Dsa_Problems/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/Mdsahil134/Dsa_Problems/tree/master/0051-n-queens) |
 | [0303-range-sum-query-immutable](https://github.com/Mdsahil134/Dsa_Problems/tree/master/0303-range-sum-query-immutable) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mdsahil134/Dsa_Problems/tree/master/0628-maximum-product-of-three-numbers) |
+| [0724-find-pivot-index](https://github.com/Mdsahil134/Dsa_Problems/tree/master/0724-find-pivot-index) |
 | [1260-shift-2d-grid](https://github.com/Mdsahil134/Dsa_Problems/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/Mdsahil134/Dsa_Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Mdsahil134/Dsa_Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
