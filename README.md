@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Mdsahil134/Dsa_Problems/tree/master/0014-longest-common-prefix) |
 | [1189-maximum-number-of-balloons](https://github.com/Mdsahil134/Dsa_Problems/tree/master/1189-maximum-number-of-balloons) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Mdsahil134/Dsa_Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Mdsahil134/Dsa_Problems/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Mdsahil134/Dsa_Problems/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Mdsahil134/Dsa_Problems/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Mdsahil134/Dsa_Problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Mdsahil134/Dsa_Problems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Mdsahil134/Dsa_Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Mdsahil134/Dsa_Problems/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Mdsahil134/Dsa_Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Sorting
 |  |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/Mdsahil134/Dsa_Problems/tree/master/0486-predict-the-winner) |
 | [1406-stone-game-iii](https://github.com/Mdsahil134/Dsa_Problems/tree/master/1406-stone-game-iii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Mdsahil134/Dsa_Problems/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Mdsahil134/Dsa_Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Mdsahil134/Dsa_Problems/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Hash Table
@@ -153,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/Mdsahil134/Dsa_Problems/tree/master/0143-reorder-list) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Mdsahil134/Dsa_Problems/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Mdsahil134/Dsa_Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Mdsahil134/Dsa_Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Bit Manipulation
