@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Mdsahil134/Dsa_Problems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2574-left-and-right-sum-differences](https://github.com/Mdsahil134/Dsa_Problems/tree/master/2574-left-and-right-sum-differences) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Mdsahil134/Dsa_Problems/tree/master/3312-sorted-gcd-pair-queries) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Mdsahil134/Dsa_Problems/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Mdsahil134/Dsa_Problems/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Mdsahil134/Dsa_Problems/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Mdsahil134/Dsa_Problems/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/Mdsahil134/Dsa_Problems/tree/master/1331-rank-transform-of-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Mdsahil134/Dsa_Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Mdsahil134/Dsa_Problems/tree/master/3312-sorted-gcd-pair-queries) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Mdsahil134/Dsa_Problems/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Mdsahil134/Dsa_Problems/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Mdsahil134/Dsa_Problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Mdsahil134/Dsa_Problems/tree/master/3739-count-subarrays-with-majority-element-ii) |
