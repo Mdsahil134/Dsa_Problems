@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Mdsahil134/Dsa_Problems/tree/master/0014-longest-common-prefix) |
 | [0051-n-queens](https://github.com/Mdsahil134/Dsa_Problems/tree/master/0051-n-queens) |
+| [0283-move-zeroes](https://github.com/Mdsahil134/Dsa_Problems/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/Mdsahil134/Dsa_Problems/tree/master/0303-range-sum-query-immutable) |
 | [0486-predict-the-winner](https://github.com/Mdsahil134/Dsa_Problems/tree/master/0486-predict-the-winner) |
 | [0560-subarray-sum-equals-k](https://github.com/Mdsahil134/Dsa_Problems/tree/master/0560-subarray-sum-equals-k) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/Mdsahil134/Dsa_Problems/tree/master/0143-reorder-list) |
+| [0283-move-zeroes](https://github.com/Mdsahil134/Dsa_Problems/tree/master/0283-move-zeroes) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Mdsahil134/Dsa_Problems/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Mdsahil134/Dsa_Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Mdsahil134/Dsa_Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
