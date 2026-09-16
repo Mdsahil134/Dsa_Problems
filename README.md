@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Mdsahil134/Dsa_Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Mdsahil134/Dsa_Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Mdsahil134/Dsa_Problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Mdsahil134/Dsa_Problems/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Mdsahil134/Dsa_Problems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2574-left-and-right-sum-differences](https://github.com/Mdsahil134/Dsa_Problems/tree/master/2574-left-and-right-sum-differences) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Mdsahil134/Dsa_Problems/tree/master/3312-sorted-gcd-pair-queries) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/Mdsahil134/Dsa_Problems/tree/master/0904-fruit-into-baskets) |
 | [1189-maximum-number-of-balloons](https://github.com/Mdsahil134/Dsa_Problems/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/Mdsahil134/Dsa_Problems/tree/master/1331-rank-transform-of-an-array) |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Mdsahil134/Dsa_Problems/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Mdsahil134/Dsa_Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Mdsahil134/Dsa_Problems/tree/master/3312-sorted-gcd-pair-queries) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Mdsahil134/Dsa_Problems/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/Mdsahil134/Dsa_Problems/tree/master/1260-shift-2d-grid) |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Mdsahil134/Dsa_Problems/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Mdsahil134/Dsa_Problems/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Simulation
 |  |
