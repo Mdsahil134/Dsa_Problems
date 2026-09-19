@@ -284,4 +284,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/Mdsahil134/Dsa_Problems/tree/master/0486-predict-the-winner) |
 | [1406-stone-game-iii](https://github.com/Mdsahil134/Dsa_Problems/tree/master/1406-stone-game-iii) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/Mdsahil134/Dsa_Problems/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
